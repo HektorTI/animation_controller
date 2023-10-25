@@ -1,4 +1,4 @@
-Claro, vou fornecer uma explicação mais detalhada do código Flutter:
+# Animation Controller (explicita) 
 
 1. A aplicação Flutter começa com uma classe `MyApp` que é o ponto de entrada. Ela utiliza o widget `MaterialApp` para configurar a aparência da aplicação. O aplicativo não exibe o banner de depuração (`debugShowCheckedModeBanner`) e usa o novo design Material ("Material You") com `useMaterial3`.
 
@@ -28,5 +28,8 @@ Em resumo, este código Flutter é um exemplo de como criar uma aplicação com 
 
 
 
-https://github.com/HektorTI/animation_controller/assets/142464152/215ae532-42d9-4907-9c59-7c3431e1cd8f
+
+https://github.com/HektorTI/animation_controller/assets/142464152/4e1a6f28-077a-4c5f-bb16-5eb8bb7168fa
+
+
 
